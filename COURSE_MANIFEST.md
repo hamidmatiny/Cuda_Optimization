@@ -292,7 +292,7 @@ Cuda_Optimization/
 ──────────────────────────────────────────────────────────────────────────────
 
 1. INSTALL
-   $ cd /Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization
+   $ cd ../Cuda_Optimization
    $ pip install -r requirements.txt
 
 2. EXPLORE
