@@ -203,7 +203,7 @@ Cuda_Optimization/
 
 ```bash
 # Clone or navigate to the course directory
-cd /Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization
+cd ../Cuda_Optimization
 
 # Install dependencies
 pip install -r requirements.txt
