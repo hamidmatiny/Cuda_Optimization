@@ -21,7 +21,7 @@ A complete course on optimizing deep learning models for NVIDIA GPUs, Apple Sili
 ### Installation
 
 ```bash
-cd /Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization
+cd ../Cuda_Optimization
 pip install -r requirements.txt
 ```
 
