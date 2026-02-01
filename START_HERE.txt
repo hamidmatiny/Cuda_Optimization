@@ -149,7 +149,7 @@ All Combined               160ms           200 s/s         4.3 GB  ✓ 2.8x
 📁 COURSE DIRECTORY STRUCTURE
 ═══════════════════════════════════════════════════════════════════════════════
 
-/Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization/
+../Cuda_Optimization/
 │
 ├── 📚 Notebooks (Learning Materials)
 │   ├── notebooks/01_profiling.ipynb
@@ -289,7 +289,7 @@ Get Help:
   → Refer to PyTorch documentation
 
 Next Actions:
-  1. $ cd /Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization
+  1. $ cd ../Cuda_Optimization
   2. $ pip install -r requirements.txt
   3. $ jupyter notebook notebooks/01_profiling.ipynb
   4. Follow modules 1-7 sequentially
