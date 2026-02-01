@@ -6,7 +6,7 @@
 PROJECT SUMMARY
 ═══════════════════════════════════════════════════════════════════════════════
 
-📦 Location: /Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization
+📦 Location: ../Cuda_Optimization
 📦 Size: 276 KB (highly compressed, optimized for learning)
 📦 Content: 2,435+ lines of documentation + code
 
@@ -190,7 +190,7 @@ All Combined           160ms       200 s/s      4.3GB     2.8x ✓✓✓
 ═══════════════════════════════════════════════════════════════════════════════
 
 1. INSTALL DEPENDENCIES
-   $ cd /Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization
+   $ cd ../Cuda_Optimization
    $ pip install -r requirements.txt
 
 2. START LEARNING
@@ -369,7 +369,7 @@ Productivity:
 
                             YOUR NEXT STEPS:
 
-                 1. cd /Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization
+                 1. cd ../Cuda_Optimization
                  2. pip install -r requirements.txt
                  3. jupyter notebook notebooks/01_profiling.ipynb
                  4. Follow the course modules 1-7
