@@ -15,7 +15,7 @@ from typing import Optional
 import sys
 
 # Add models to path
-sys.path.insert(0, '/Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization')
+sys.path.insert(0, '../Cuda_Optimization')
 from models.llm import OptimizedLLM
 
 

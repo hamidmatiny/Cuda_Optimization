@@ -30,7 +30,7 @@ A focused PyTorch optimization repository for deep learning workloads, with prac
 ## Quick start
 
 ```bash
-cd /Users/hamidrezamatiny/Documents/GitHub/Cuda_Optimization
+cd ../Cuda_Optimization
 python -m pip install -r requirements.txt
 jupyter notebook notebooks/01_profiling.ipynb
 ```
